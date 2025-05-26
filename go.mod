@@ -3,7 +3,7 @@ module github.com/mostlygeek/llama-swap
 go 1.23.0
 
 require (
-	github.com/gin-gonic/gin v1.10.0
+	github.com/gin-gonic/gin v1.10.1
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/stretchr/testify v1.10.0
 	github.com/tidwall/gjson v1.18.0
